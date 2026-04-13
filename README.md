@@ -237,8 +237,7 @@ curl https://task-manager-app-wigi.onrender.com/tasks
 ## 👨‍💻 Author
 
 **Shamim Akhtar**
-B.Tech CSE (Data Science & Analytics)
-Passionate about Full-Stack Development & AI/ML
+B.Tech CSE
 
 ---
 
